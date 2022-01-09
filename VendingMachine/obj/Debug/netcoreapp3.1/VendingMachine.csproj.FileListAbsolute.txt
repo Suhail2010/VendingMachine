@@ -1,0 +1,28 @@
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
+C:\Users\muhan_pq\source\repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\muhan_pq\source\repos\VendingMachine - Copy\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
