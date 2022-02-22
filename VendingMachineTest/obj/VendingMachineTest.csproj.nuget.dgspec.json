@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachineTest\\VendingMachineTest.csproj": {}
+    "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachineTest\\VendingMachineTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachineTest\\VendingMachineTest.csproj": {
+    "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachineTest\\VendingMachineTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachineTest\\VendingMachineTest.csproj",
+        "projectUniqueName": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachineTest\\VendingMachineTest.csproj",
         "projectName": "VendingMachineTest",
-        "projectPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachineTest\\VendingMachineTest.csproj",
+        "projectPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachineTest\\VendingMachineTest.csproj",
         "packagesPath": "C:\\Users\\muhan_pq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachineTest\\obj\\",
+        "outputPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachineTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muhan_pq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachine\\VendingMachine.csproj": {
-                "projectPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachine\\VendingMachine.csproj"
+              "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj": {
+                "projectPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj"
               }
             }
           }
@@ -80,18 +80,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachine\\VendingMachine.csproj": {
+    "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachine\\VendingMachine.csproj",
+        "projectUniqueName": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachine\\VendingMachine.csproj",
+        "projectPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
         "packagesPath": "C:\\Users\\muhan_pq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine - Copy\\VendingMachine\\obj\\",
+        "outputPath": "C:\\Users\\muhan_pq\\source\\repos\\VendingMachine\\VendingMachine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muhan_pq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

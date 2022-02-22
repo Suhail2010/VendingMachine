@@ -4,8 +4,16 @@ using System.Text;
 
 namespace VendingMachine.FolderMachine
 {
-    public interface IVendingMachines
+    interface IVendingMachines
     {
-        public int Pool { get; set; }
+        int Pool { get; set; }
+
+        void DepositeMoney(int money);
+
+        void DisplayAllProducts();
+
+        void MakeOrder();
+
+        void ReturnMoney();
     }
 }
