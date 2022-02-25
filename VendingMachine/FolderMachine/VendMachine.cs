@@ -241,14 +241,19 @@ namespace VendingMachine.FolderMachine
                     double i = Pool - TotalCost;
                     while (i > 0)
                     {
-                        if (i == 1000)
+                        if (i >= 1000)
                         {
-                            returnMoney.Add(i);
-                        }
-                        else
-                        {
-                            if (i >= 500) { returnMoney.Add(500); i -= 500; }
                             for (int j = 0; j < 5; j++)
+                            {
+                                if (i >= 1000)
+                                {
+                                    returnMoney.Add(100); i -= 1000;
+                                }
+                                else break;
+                            }
+                        }
+                        if (i >= 500) { returnMoney.Add(500); i -= 500; }
+                        for (int j = 0; j < 5; j++)
                             {
                                 if (i >= 100)
                                 {
@@ -258,7 +263,7 @@ namespace VendingMachine.FolderMachine
                             }
                             if (i >= 50) { returnMoney.Add(50); i -= 50; }
                             if (i >= 20) { returnMoney.Add(20); i -= 20; }
-                            if (i >= 20) { returnMoney.Add(20); i -= 20; }
+                        if (i >= 20) { returnMoney.Add(20); i -= 20; }
                             if (i > 0)
                             {
                                 for (int j = 0; j < 5; j++)
@@ -273,7 +278,7 @@ namespace VendingMachine.FolderMachine
                             if (i >= 5) { returnMoney.Add(5); i -= 5; }
                             if (i >= 5) { returnMoney.Add(5); i -= 5; }
                             if (i >= 0)
-                            {
+                        {
                                 for (int j = 0; j < 5; j++)
                                 {
                                     if (i >= 1)
@@ -283,7 +288,6 @@ namespace VendingMachine.FolderMachine
                                     else break;
                                 }
                             }
-                        }
                     }
                     WriteLine("Money to return is {0:C}", Pool - TotalCost);
                     foreach (int val in returnMoney)
